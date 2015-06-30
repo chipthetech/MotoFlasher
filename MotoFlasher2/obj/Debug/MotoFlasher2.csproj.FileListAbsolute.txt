@@ -1,0 +1,14 @@
+C:\Users\Nahuel\Documents\Repos\MotoFlasher\MotoFlasher2\MotoFlasher2\bin\Debug\MotoFlasher2.exe.config
+C:\Users\Nahuel\Documents\Repos\MotoFlasher\MotoFlasher2\MotoFlasher2\bin\Debug\MotoFlasher2.exe
+C:\Users\Nahuel\Documents\Repos\MotoFlasher\MotoFlasher2\MotoFlasher2\bin\Debug\MotoFlasher2.pdb
+C:\Users\Nahuel\Documents\Repos\MotoFlasher\MotoFlasher2\MotoFlasher2\obj\Debug\MotoFlasher2.csprojResolveAssemblyReference.cache
+C:\Users\Nahuel\Documents\Repos\MotoFlasher\MotoFlasher2\MotoFlasher2\obj\Debug\MainWindow.g.cs
+C:\Users\Nahuel\Documents\Repos\MotoFlasher\MotoFlasher2\MotoFlasher2\obj\Debug\App.g.cs
+C:\Users\Nahuel\Documents\Repos\MotoFlasher\MotoFlasher2\MotoFlasher2\obj\Debug\MotoFlasher2_MarkupCompile.cache
+C:\Users\Nahuel\Documents\Repos\MotoFlasher\MotoFlasher2\MotoFlasher2\obj\Debug\MotoFlasher2_MarkupCompile.lref
+C:\Users\Nahuel\Documents\Repos\MotoFlasher\MotoFlasher2\MotoFlasher2\obj\Debug\MainWindow.baml
+C:\Users\Nahuel\Documents\Repos\MotoFlasher\MotoFlasher2\MotoFlasher2\obj\Debug\MotoFlasher2.g.resources
+C:\Users\Nahuel\Documents\Repos\MotoFlasher\MotoFlasher2\MotoFlasher2\obj\Debug\MotoFlasher2.Properties.Resources.resources
+C:\Users\Nahuel\Documents\Repos\MotoFlasher\MotoFlasher2\MotoFlasher2\obj\Debug\MotoFlasher2.csproj.GenerateResource.Cache
+C:\Users\Nahuel\Documents\Repos\MotoFlasher\MotoFlasher2\MotoFlasher2\obj\Debug\MotoFlasher2.exe
+C:\Users\Nahuel\Documents\Repos\MotoFlasher\MotoFlasher2\MotoFlasher2\obj\Debug\MotoFlasher2.pdb
